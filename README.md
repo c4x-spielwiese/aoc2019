@@ -1,2 +1,3 @@
 # aoc2019
-adventofcode 2019 / python
+advent-of-code 2019 // my python solutions
+.
